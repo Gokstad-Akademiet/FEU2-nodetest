@@ -1,0 +1,12 @@
+[
+	{ "id": 1, "first_name": "Alexis", "last_name": "Wetherald", "gender": "kvinne" },
+	{ "id": 2, "first_name": "Ingrim", "last_name": "Klessmann", "gender": "mann" },
+	{ "id": 3, "first_name": "Walsh", "last_name": "Sandbach", "gender": "mann" },
+	{ "id": 4, "first_name": "Nolly", "last_name": "Kewley", "gender": "mann" },
+	{ "id": 5, "first_name": "Jasmin", "last_name": "Haslen", "gender": "kvinne" },
+	{ "id": 6, "first_name": "Gian", "last_name": "Eldredge", "gender": "mann" },
+	{ "id": 7, "first_name": "Goldy", "last_name": "Haggie", "gender": "kvinne" },
+	{ "id": 8, "first_name": "Katleen", "last_name": "MacRinn", "gender": "kvinne" },
+	{ "id": 9, "first_name": "Shelia", "last_name": "Hegges", "gender": "kvinne" },
+	{ "id": 10, "first_name": "Skippie", "last_name": "Boocock", "gender": "mann" }
+]
