@@ -15,7 +15,3 @@ server.listen(port, () => {
 });
 
 
-
-// Oppgave:
-// Les denne artikkelen og forsøk å kopiere eksempelet:
-// https://www.geeksforgeeks.org/node-js-fs-writefile-method/
